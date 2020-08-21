@@ -1,0 +1,1 @@
+# TensorFlow in Practice Specialization, read list
