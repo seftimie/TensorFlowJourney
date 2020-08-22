@@ -7,7 +7,15 @@ In this doc you can see my timeline progress.
 https://www.coursera.org/learn/introduction-tensorflow
 
 **2020-08-22**: 
-- (todo) init curso
+- (done) Introduction: A conversation with Andrew Ng
+- (done) A primer in machine learning
+- (done) The ‘Hello World’ of neural networks
+- (done) From rules to data
+- (done) Working through ‘Hello World’ in TensorFlow and Python
+- (done) Try it for yourself
+- (done) Week 1 Quiz
+- (done) Introduction to Google Colaboratory
+- (done) Get started with Google Colaboratory (Coding TensorFlow)
 - (todo) read 1h from "Hands-on Machine Learning Book" (2nd edition) 
 
 **2020-08-23**: 
