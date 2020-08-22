@@ -5,5 +5,12 @@ A list with demos, notes, extra reading, my own progress all related with [Tenso
 - [demos](demos/)  - where I'll place all the code, demos, models, notebooks etc;
 - [progress/checklist.md](progress/checklist.md) - where I'll check my progress;
 - [progress/timeline.md](progress/timeline.md) - where you can view my progress as a timeline;
-- [notes](notes/) - where I'll my notes, questions etc;
+- [notes/readme.md](notes/) - where I'll add my notes, questions etc;
+- [notes/keywords.md](notes/keywords.md) - a list of keywords;
 - [read](read/)  - own reading list related with TensorFlow;
+
+
+## Updates:
+- 2020-08-22: Init course. first model. some readings. I updated github demos/progress/notes/keywords/read;
+
+
