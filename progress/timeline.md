@@ -16,11 +16,11 @@ https://www.coursera.org/learn/introduction-tensorflow
 - (done) Week 1 Quiz
 - (done) Introduction to Google Colaboratory
 - (done) Get started with Google Colaboratory (Coding TensorFlow)
-- (todo) read 1h from "Hands-on Machine Learning Book" (2nd edition) 
 
 **2020-08-23**: 
-- (todo): get going with the course;
-- (todo) read 1h from "Hands-on Machine Learning Book" (2nd edition) 
+- (done): Exercise 1 (Housing Prices)
+- (done): Programming Assignment: Exercise 1 (Housing Prices)
+- (done): Week 1 Resources
 
 
 ## 2. Convolutional Neural Networks in TensorFlow
