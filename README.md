@@ -13,5 +13,6 @@ A list with demos, notes, extra reading, my own progress all related with [Tenso
 ## Updates:
 - 2020-08-22: Init course. first model. some readings. I updated github demos/progress/notes/keywords/read;
 - 2020-08-23: Finish the first week, pass the code test & do some readings;
+- 2020-08-24: Finish the second week, pass the code test, update git repo & do some readings;
 
 
