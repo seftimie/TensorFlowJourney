@@ -13,3 +13,7 @@ https://www.coursera.org/specializations/tensorflow-in-practice?#courses
 - convergence
 - epochs
 - neurons
+- convolutional neural network
+- filter
+- pooling
+

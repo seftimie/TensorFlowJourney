@@ -8,4 +8,5 @@ https://www.coursera.org/learn/introduction-tensorflow
 - (done) [exercise_01.py](exercise_01.py) Programming Assignment: Exercise 1 (Housing Prices);
 - (done) [model_02.py](model_02.py) Basic classification: Classify images of clothing by François Chollet;
 - (done) [exercise_02.py](exercise_02.py) Write an MNIST classifier that trains to 99% accuracy or above, and does it without a fixed number of epochs;
+- (done) [model_03.py](model_03.py) write first CNN based on Fashion MNIST;
 

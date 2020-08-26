@@ -42,6 +42,20 @@ https://www.coursera.org/learn/introduction-tensorflow
 - (done): Exercise 2 (Handwriting Recognition)
 
 
+**2020-08-25**:
+- (done): A conversation with Andrew Ng
+- (done): What are convolutions and pooling?
+- (done): Coding convolutions and pooling layers
+- (done): Implementing convolutional layers
+- (done): Learn more about convolutions
+- (done): Implementing pooling layers
+- (done): Getting hands-on, your first ConvNet
+- (done): Improving the Fashion classifier with convolutions
+- (done): Try it for yourself
+- (done): Walking through convolutions
+- (done): Experiment with filters and pools
+
+
 
 ## 2. Convolutional Neural Networks in TensorFlow
 https://www.coursera.org/learn/convolutional-neural-networks-tensorflow

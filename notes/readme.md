@@ -71,3 +71,38 @@
 - Optimizer — This is how the model is updated based on the data it sees and its loss function;
 - Metrics — Used to monitor the training and testing steps. The following example uses accuracy, the fraction of the images that are correctly classified.
 - The gap between training accuracy and test accuracy represents **overfitting**. Overfitting happens when a machine learning model performs worse on new, previously unseen inputs than it does on the training data. An overfitted model "memorizes" the noise and details in the training dataset to a point where it negatively impacts the performance of the model on the new data.
+
+
+**What are convolutions and pooling?**
+- So, what's convolution? You might ask. Well, if you've ever done any kind of image processing, it usually involves having a filter and passing that filter over the image in order to change the underlying image;
+- pooling is a way of compressing an image. A quick and easy way to do this, is to go over the image of four pixels at a time, i.e, the current pixel and its neighbors underneath and to the right of it. Of these four, pick the biggest value and keep just that. 
+
+
+**Coding convolutions and pooling layers**
+- The concepts introduced in this video are available as Conv2D layers and MaxPooling2D layers in TensorFlow.
+- links: https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv2D
+- links: https://www.tensorflow.org/api_docs/python/tf/keras/layers/MaxPool2D
+
+
+**Implementing pooling layers**
+- A really useful method on the model is the model.summary method. This allows you to inspect the layers of the model, and see the journey of the image through the convolutions
+
+
+**Getting hands-on, your first ConvNet**
+- turn your Deep Neural Network into a Convolutional Neural Network by adding convolutional layers on top, and having the network train against the results of the convolutions instead of the raw pixels
+
+
+**Try it for yourself**
+
+```
+	import tensorflow as tf
+	mnist = tf.keras.datasets.fashion_mnist
+	(training_images, training_labels), (test_images, test_labels) = mnist.load_data()
+	training_images=training_images.reshape(60000, 28, 28, 1)
+	training_images=training_images / 255.0
+	test_images = test_images.reshape(10000, 28, 28, 1)
+	test_images=test_images/255.0
+```
+- You'll notice that there's a bit of a change here in that the training data needed to be reshaped. That's because the first convolution expects a single tensor containing everything, so instead of 60,000 28x28x1 items in a list, we have a single 4D list that is 60,000x28x28x1, and the same for the test images. If you don't do this, you'll get an error when training as the Convolutions do not recognize the shape.
+
+
