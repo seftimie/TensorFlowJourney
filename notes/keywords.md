@@ -16,4 +16,7 @@ https://www.coursera.org/specializations/tensorflow-in-practice?#courses
 - convolutional neural network
 - filter
 - pooling
+- confinet (ConvNet)
+- image generator (TF) 
+- learning rate
 

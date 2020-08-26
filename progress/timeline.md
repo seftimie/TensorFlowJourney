@@ -7,7 +7,7 @@ In this doc you can see my timeline progress.
 https://www.coursera.org/learn/introduction-tensorflow
 
 **2020-08-22**: 
-- (done) Introduction: A conversation with Andrew Ng
+- (done) Week 1: Introduction: A conversation with Andrew Ng
 - (done) A primer in machine learning
 - (done) The ‘Hello World’ of neural networks
 - (done) From rules to data
@@ -24,7 +24,7 @@ https://www.coursera.org/learn/introduction-tensorflow
 
 
 **2020-08-24**:
-- (done): A Conversation with Andrew Ng
+- (done): Week 2: A Conversation with Andrew Ng
 - (done): An Introduction to computer vision
 - (done): Exploring how to use data
 - (done): Writing code to load training data
@@ -43,7 +43,7 @@ https://www.coursera.org/learn/introduction-tensorflow
 
 
 **2020-08-25**:
-- (done): A conversation with Andrew Ng
+- (done): Week 3: A conversation with Andrew Ng
 - (done): What are convolutions and pooling?
 - (done): Coding convolutions and pooling layers
 - (done): Implementing convolutional layers
@@ -54,6 +54,37 @@ https://www.coursera.org/learn/introduction-tensorflow
 - (done): Try it for yourself
 - (done): Walking through convolutions
 - (done): Experiment with filters and pools
+
+
+**2020-08-26**
+- (done): Week 3 Quiz
+- (done): Exercise 3 (Improve MNIST with convolutions)
+- (done): Week 3 Resources
+- (done): Exercise 3 - Improve MNIST with convolutions
+- (done): Week 4: A conversation with Andrew Ng
+- (done): Explore an impactful, real-world solution
+- (done): Understanding ImageGenerator
+- (done): Designing the neural network
+- (done): Defining a ConvNet to use complex images
+- (done): Train the ConvNet with ImageGenerator
+- (done): Training the ConvNet with fit_generator
+- (done): Exploring the solution
+- (done): Walking through developing a ConvNet
+- (done): Training the neural network
+- (done): Walking through training the ConvNet with fit_generator
+- (done): Experiment with the horse or human classifier
+- (done): Adding automatic validation to test accuracy
+- (done): Get hands-on and use validation
+- (done): Exploring the impact of compressing images
+- (done): Get Hands-on with compacted images
+- (done): Week 4 Quiz
+- (done): Exercise 4 (Handling complex images)
+- (done): Programming Assignment: Exercise 4 (Handling complex images)
+- (done): Week 4 Resources
+- (done): Exercise 4 - Handling complex images
+- (done): Wrap up
+- (todo): Week 4: A conversation with Andrew
+
 
 
 

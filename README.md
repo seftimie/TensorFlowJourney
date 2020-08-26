@@ -15,5 +15,9 @@ A list with demos, notes, extra reading, my own progress all related with [Tenso
 - 2020-08-23: Finish the first week, pass the code test & do some readings;
 - 2020-08-24: Finish the second week, pass the code test, update git repo & do some readings;
 - 2020-08-25: Saw some videos on CNN, write some code, do some reading, update github;
+- 2020-08-26: Finished week03, learned about ConvNet, do some coding, some reading, update github;
+
+
+
 
 

@@ -13,6 +13,11 @@ https://www.coursera.org/specializations/tensorflow-in-practice?#courses
 - [Improving Computer Vision Accuracy using Convolutions](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%206%20-%20Lesson%202%20-%20Notebook.ipynb)
 - [Kernel (image processing)](https://en.wikipedia.org/wiki/Kernel_(image_processing))
 - [Course 1 - Part 6 - Lesson 3 - Notebook.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/)Course%201%20-%20Part%206%20-%20Lesson%203%20-%20Notebook.ipynb
+- [TF: an ML platform for solving impactful and challenging problems](https://www.youtube.com/watch?v=NlpS-DhayQA)
+- [Course 1 - Part 8 - Lesson 2 - Notebook.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%208%20-%20Lesson%202%20-%20Notebook.ipynb)
+- [Course 1 - Part 8 - Lesson 3 - Notebook.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%208%20-%20Lesson%203%20-%20Notebook.ipynb)
+- [Course 1 - Part 8 - Lesson 4 - Notebook.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%208%20-%20Lesson%204%20-%20Notebook.ipynb)
+
 
 **Todo:**
 - [Demonstrate overfitting](https://www.tensorflow.org/tutorials/keras/overfit_and_underfit#demonstrate_overfitting)
@@ -31,3 +36,5 @@ https://www.coursera.org/specializations/tensorflow-in-practice?#courses
 - [tf.keras.layers.Conv2D](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv2D)
 - [tf.keras.layers.MaxPool2D](https://www.tensorflow.org/api_docs/python/tf/keras/layers/MaxPool2D)
 - [Convolutional Neural Networks (Course 4 of the Deep Learning Specialization)](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
+- [Understanding Categorical Cross-Entropy Loss, Binary Cross-Entropy Loss, Softmax Loss, Logistic Loss, Focal Loss and all those confusing names](https://gombru.github.io/2018/05/23/cross_entropy_loss/)
+- [Binary Classification (C1W2L01)](https://www.youtube.com/watch?v=eqEc66RFY0I&t=6s)
