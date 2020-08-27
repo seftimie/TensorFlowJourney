@@ -11,12 +11,17 @@ A list with demos, notes, extra reading, my own progress all related with [Tenso
 
 
 ## Updates:
-- 2020-08-22: Init 1st course: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning. Got to do my first model. some readings. I updated github demos/progress/notes/keywords/read;
-- 2020-08-23: Finish the first week, pass the code test & do some readings;
-- 2020-08-24: Finish the second week, pass the code test, update git repo & do some readings;
-- 2020-08-25: Saw some videos on CNN, write some code, do some reading, update github;
-- 2020-08-26: Finished week03 and week04, learned about ConvNet, do some coding, some reading, update github;
-- 2020-08-27: Init 2nd course: Convolutional Neural Networks in TensorFlow. All first week it's over. Do some coding. Pass the quiz & code test. Update github;
+- 2020-08-22: Init 1st course: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning;
+
+- 2020-08-23: Finish the first week (pass quiz/code/reading/update repo)
+
+- 2020-08-24: Finish the second week (pass quiz/code/reading/update repo)
+
+- 2020-08-25: Saw some videos on CNN (code/reading/updare repo);
+
+- 2020-08-26: Finished week03 and week04 (pass quizzes/codes/reading/update repo). Learned about ConvNet;
+
+- 2020-08-27: Init 2nd course: Convolutional Neural Networks in TensorFlow. All first week it's over (pass quiz/code/reading/update repo);
 
 
 
