@@ -19,4 +19,9 @@ https://www.coursera.org/specializations/tensorflow-in-practice?#courses
 - confinet (ConvNet)
 - image generator (TF) 
 - learning rate
+- data augmentation
+- tensorFlow's Image Generation lib;
+- transfer learning
+- inception network
+- multicast learning
 

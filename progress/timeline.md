@@ -83,13 +83,26 @@ https://www.coursera.org/learn/introduction-tensorflow
 - (done): Week 4 Resources
 - (done): Exercise 4 - Handling complex images
 - (done): Wrap up
-- (todo): Week 4: A conversation with Andrew
-
-
-
 
 ## 2. Convolutional Neural Networks in TensorFlow
 https://www.coursera.org/learn/convolutional-neural-networks-tensorflow
+
+**2020-08-27** 
+- (done): Week 1 Introduction, A conversation with Andrew Ng
+- (done): Before you Begin: TensorFlow 2.0 and this Course
+- (done): A conversation with Andrew Ng
+- (done): The cats vs dogs dataset
+- (done): Training with the cats vs. dogs dataset
+- (done): Looking at the notebook
+- (done): Working through the notebook
+- (done): What you'll see next
+- (done): Fixing through cropping
+- (done): Visualizing the effect of the convolutions
+- (done): Looking at accuracy and loss
+- (done): What have we seen so far?
+- (done): Week 1 Quiz
+- (done): Week 1 Wrap up
+- (done): Exercise 1 - Cats vs. Dogs
 
 ## 3. Natural Language Processing in TensorFlow
 https://www.coursera.org/learn/natural-language-processing-tensorflow
