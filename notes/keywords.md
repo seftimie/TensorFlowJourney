@@ -24,4 +24,10 @@ https://www.coursera.org/specializations/tensorflow-in-practice?#courses
 - transfer learning
 - inception network
 - multicast learning
+- image data generator;
+- image augmentation
+
+
+
+
 

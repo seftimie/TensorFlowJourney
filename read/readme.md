@@ -12,13 +12,19 @@ https://www.coursera.org/specializations/tensorflow-in-practice?#courses
 - [Basic classification: Classify images of clothing](https://www.tensorflow.org/tutorials/keras/classification)
 - [Improving Computer Vision Accuracy using Convolutions](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%206%20-%20Lesson%202%20-%20Notebook.ipynb)
 - [Kernel (image processing)](https://en.wikipedia.org/wiki/Kernel_(image_processing))
-- [Course 1 - Part 6 - Lesson 3 - Notebook.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/)Course%201%20-%20Part%206%20-%20Lesson%203%20-%20Notebook.ipynb
+- [Course 1 - Part 6 - Lesson 3 - Notebook.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%206%20-%20Lesson%203%20-%20Notebook.ipynb)
 - [TF: an ML platform for solving impactful and challenging problems](https://www.youtube.com/watch?v=NlpS-DhayQA)
 - [Course 1 - Part 8 - Lesson 2 - Notebook.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%208%20-%20Lesson%202%20-%20Notebook.ipynb)
 - [Course 1 - Part 8 - Lesson 3 - Notebook.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%208%20-%20Lesson%203%20-%20Notebook.ipynb)
 - [Course 1 - Part 8 - Lesson 4 - Notebook.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%208%20-%20Lesson%204%20-%20Notebook.ipynb)
 - [Dogs vs. Cats dataset](https://www.kaggle.com/c/dogs-vs-cats/data)
 - [Course 2 - Part 2 - Lesson 2 - Notebook.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%202%20-%20Part%202%20-%20Lesson%202%20-%20Notebook.ipynb)
+- [Keras Preprocessing](https://github.com/keras-team/keras-preprocessing)
+- [Image data preprocessing](https://keras.io/api/preprocessing/image/)
+- [Course 2 - Part 4 - Lesson 2 - Notebook (Cats v Dogs Augmentation).ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%202%20-%20Part%204%20-%20Lesson%202%20-%20Notebook%20(Cats%20v%20Dogs%20Augmentation).ipynb)
+- [Course 2 - Part 4 - Lesson 4 - Notebook.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%202%20-%20Part%204%20-%20Lesson%204%20-%20Notebook.ipynb)
+
+
 
 **Todo:**
 - [Demonstrate overfitting](https://www.tensorflow.org/tutorials/keras/overfit_and_underfit#demonstrate_overfitting)
@@ -40,3 +46,4 @@ https://www.coursera.org/specializations/tensorflow-in-practice?#courses
 - [Understanding Categorical Cross-Entropy Loss, Binary Cross-Entropy Loss, Softmax Loss, Logistic Loss, Focal Loss and all those confusing names](https://gombru.github.io/2018/05/23/cross_entropy_loss/)
 - [Binary Classification (C1W2L01)](https://www.youtube.com/watch?v=eqEc66RFY0I&t=6s)
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+- [Tiny Machine Learning (TinyML) by Laurence Moroney](https://programs.edx.org/harvard-tiny-ml)

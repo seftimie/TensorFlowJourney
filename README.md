@@ -10,7 +10,7 @@ A list with demos, notes, extra reading, my own progress all related with [Tenso
 - [read](read/)  - own reading list related with TensorFlow;
 
 
-## Updates:
+## Updates: ([more details](progress/timeline.md))
 - 2020-08-22: Init 1st course: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning;
 
 - 2020-08-23: Finish the first week (pass quiz/code/reading/update repo)
@@ -22,6 +22,8 @@ A list with demos, notes, extra reading, my own progress all related with [Tenso
 - 2020-08-26: Finished week03 and week04 (pass quizzes/codes/reading/update repo). Learned about ConvNet;
 
 - 2020-08-27: Init 2nd course: Convolutional Neural Networks in TensorFlow. All first week it's over (pass quiz/code/reading/update repo);
+
+- 2020-08-28: Image Augmentation (my fav subject 'till the moment; such a creative way/tool for getting better resuts on CNN/NN using TF. Keras ImageDataGenerator class it's 🔥🔥🔥); End week 02 (pass quiz/code/reading/update repo);
 
 
 

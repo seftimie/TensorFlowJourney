@@ -104,6 +104,25 @@ https://www.coursera.org/learn/convolutional-neural-networks-tensorflow
 - (done): Week 1 Wrap up
 - (done): Exercise 1 - Cats vs. Dogs
 
+
+**2020-08-28**
+- (done): Week 2, A conversation with Andrew Ng
+- (done): Image Augmentation (my fav subject till the moment)
+- (done): Introducing augmentation 
+- (done): Start Coding...
+- (done): Looking at the notebook
+- (done): The impact of augmentation on Cats vs. Dogs
+- (done): Adding augmentation to cats vs. dogs
+- (done): Try it for yourself!
+- (done): Exploring augmentation with horses vs. humans
+- (done): What have we seen so far?
+- (done): Week 2 Quiz
+- (done): Week 2 Wrap up
+- (done): Exercise 2 - Cats vs. Dogs using augmentation
+- (done): Programming Assignment: Exercise 2 - Cats vs. Dogs using augmentation
+
+
+
 ## 3. Natural Language Processing in TensorFlow
 https://www.coursera.org/learn/natural-language-processing-tensorflow
 
