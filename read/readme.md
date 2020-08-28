@@ -23,6 +23,10 @@ https://www.coursera.org/specializations/tensorflow-in-practice?#courses
 - [Image data preprocessing](https://keras.io/api/preprocessing/image/)
 - [Course 2 - Part 4 - Lesson 2 - Notebook (Cats v Dogs Augmentation).ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%202%20-%20Part%204%20-%20Lesson%202%20-%20Notebook%20(Cats%20v%20Dogs%20Augmentation).ipynb)
 - [Course 2 - Part 4 - Lesson 4 - Notebook.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%202%20-%20Part%204%20-%20Lesson%204%20-%20Notebook.ipynb)
+- [Course 2 - Part 6 - Lesson 3 - Notebook.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%202%20-%20Part%206%20-%20Lesson%203%20-%20Notebook.ipynb)
+- [Course 2 - Part 6 - Lesson 3 - Notebook.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%202%20-%20Part%206%20-%20Lesson%203%20-%20Notebook.ipynb#scrollTo=1xJZ5glPPCRz)
+- [Transfer learning and fine-tuning](https://www.tensorflow.org/tutorials/images/transfer_learning)
+
 
 
 
@@ -47,3 +51,5 @@ https://www.coursera.org/specializations/tensorflow-in-practice?#courses
 - [Binary Classification (C1W2L01)](https://www.youtube.com/watch?v=eqEc66RFY0I&t=6s)
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 - [Tiny Machine Learning (TinyML) by Laurence Moroney](https://programs.edx.org/harvard-tiny-ml)
+- [Transfer learning guide](https://www.tensorflow.org/guide/keras/transfer_learning)
+- [Check out Andrew's terrific video explaining dropouts here](https://www.youtube.com/watch?v=ARq74QuavAo)

@@ -6,6 +6,7 @@ In this doc you can see my timeline progress.
 ## 1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 https://www.coursera.org/learn/introduction-tensorflow
 
+
 **2020-08-22**: 
 - (done) Week 1: Introduction: A conversation with Andrew Ng
 - (done) A primer in machine learning
@@ -16,6 +17,7 @@ https://www.coursera.org/learn/introduction-tensorflow
 - (done) Week 1 Quiz
 - (done) Introduction to Google Colaboratory
 - (done) Get started with Google Colaboratory (Coding TensorFlow)
+
 
 **2020-08-23**: 
 - (done): Exercise 1 (Housing Prices)
@@ -87,6 +89,7 @@ https://www.coursera.org/learn/introduction-tensorflow
 ## 2. Convolutional Neural Networks in TensorFlow
 https://www.coursera.org/learn/convolutional-neural-networks-tensorflow
 
+
 **2020-08-27** 
 - (done): Week 1 Introduction, A conversation with Andrew Ng
 - (done): Before you Begin: TensorFlow 2.0 and this Course
@@ -120,6 +123,22 @@ https://www.coursera.org/learn/convolutional-neural-networks-tensorflow
 - (done): Week 2 Wrap up
 - (done): Exercise 2 - Cats vs. Dogs using augmentation
 - (done): Programming Assignment: Exercise 2 - Cats vs. Dogs using augmentation
+
+
+**2020-08-29**
+- (done): Week 3, A conversation with Andrew Ng
+- (done): Understanding transfer learning: the concepts
+- (done): Start coding!
+- (done): Coding transfer learning from the inception mode
+- (done): Adding your DNN
+- (done): Coding your own model with transferred features
+- (done): Using dropouts!
+- (done): Exploring dropouts
+- (done): Applying Transfer Learning to Cats v Dogs
+- (done): Exploring Transfer Learning with Inception
+- (done): What have we seen so far?
+- (done): Week 3 Quiz
+- (done): Week 3 Wrap up
 
 
 
