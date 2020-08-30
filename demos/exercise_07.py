@@ -153,8 +153,8 @@ validation_generator =  test_datagen.flow_from_directory( validation_dir,
 callbacks = myCallback()
 history = model.fit_generator(train_generator,
             validation_data = validation_generator,
-            steps_per_epoch = 100,
-            epochs = 3,
+            steps_per_epoch = 20,
+            epochs = 1,
             validation_steps = 50,
             verbose = 2,
             callbacks=[callbacks])
@@ -162,8 +162,8 @@ history = model.fit_generator(train_generator,
 
 %matplotlib inline
 import matplotlib.pyplot as plt
-acc = history.history['acc']
-val_acc = history.history['val_acc']
+acc = history.history['accuracy']
+val_acc = history.history['val_accuracy']
 loss = history.history['loss']
 val_loss = history.history['val_loss']
 
