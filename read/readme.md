@@ -26,7 +26,9 @@ https://www.coursera.org/specializations/tensorflow-in-practice?#courses
 - [Course 2 - Part 6 - Lesson 3 - Notebook.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%202%20-%20Part%206%20-%20Lesson%203%20-%20Notebook.ipynb)
 - [Course 2 - Part 6 - Lesson 3 - Notebook.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%202%20-%20Part%206%20-%20Lesson%203%20-%20Notebook.ipynb#scrollTo=1xJZ5glPPCRz)
 - [Transfer learning and fine-tuning](https://www.tensorflow.org/tutorials/images/transfer_learning)
-
+- [Introducing Rock Paper Scissors – A multi class learning dataset](http://www.laurencemoroney.com/rock-paper-scissors-dataset/)
+- [Course 2 - Part 8 - Lesson 2 - Notebook (RockPaperScissors).ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%202%20-%20Part%208%20-%20Lesson%202%20-%20Notebook%20(RockPaperScissors).ipynb)
+- [Exercise 8 - Question.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Exercises/Exercise%208%20-%20Multiclass%20with%20Signs/Exercise%208%20-%20Question.ipynb)
 
 
 
@@ -53,3 +55,5 @@ https://www.coursera.org/specializations/tensorflow-in-practice?#courses
 - [Tiny Machine Learning (TinyML) by Laurence Moroney](https://programs.edx.org/harvard-tiny-ml)
 - [Transfer learning guide](https://www.tensorflow.org/guide/keras/transfer_learning)
 - [Check out Andrew's terrific video explaining dropouts here](https://www.youtube.com/watch?v=ARq74QuavAo)
+- [Whats the diff between "fit" and "fit_generator"?](https://www.pyimagesearch.com/2018/12/24/how-to-use-keras-fit-and-fit_generator-a-hands-on-tutorial/)
+- [TF Tutorials](https://www.tensorflow.org/tutorials)

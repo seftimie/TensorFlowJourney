@@ -141,6 +141,23 @@ https://www.coursera.org/learn/convolutional-neural-networks-tensorflow
 - (done): Week 3 Wrap up
 
 
+**2020-08-30**
+- (done) Exercise 3 - Horses vs. humans using Transfer Learning
+- (done) Programming Assignment: Exercise 3 - Horses vs. humans using Transfer Learning
+- (done): Week 4, A conversation with Andrew Ng
+- (done): Moving from binary to multi-class classification
+- (done): Introducing the Rock-Paper-Scissors dataset
+- (done): Explore multi-class with Rock Paper Scissors dataset
+- (done): Train a classifier with Rock Paper Scissors
+- (done): Try testing the classifier
+- (done): Test the Rock Paper Scissors classifier
+- (done): What have we seen so far?
+- (done): Week 4 Quiz
+- (done): Exercise 4 - Multi-class classifier
+- (done): Programming Assignment: Exercise 4 - Multi-class classifier
+- (done): Exercise 4 - Multi-class classifier
+- (done): Wrap up
+
 
 ## 3. Natural Language Processing in TensorFlow
 https://www.coursera.org/learn/natural-language-processing-tensorflow

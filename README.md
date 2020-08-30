@@ -27,6 +27,8 @@ A list with demos, notes, extra reading, my own progress all related with [Tenso
 
 - 2020-08-29: Transfer learning & Using dropouts! (pass quiz/reading/update repo). To undestand better this, I'll need to code some demos; It's kinda the first thing that it bothers me a little
 
+- 2020-08-30: End Week 03 and 04; Learn about Multi-class classifier (now I know how Teachable Machine it's working at code level). Also I think that the course it's only the "basics/step by step" of all this topics. If you wanna know more, you def need more practice/code/books/run in prod. (pass quiz/code/reading/update repo);
+
 
 
 

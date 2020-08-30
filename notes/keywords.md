@@ -30,7 +30,7 @@ https://www.coursera.org/specializations/tensorflow-in-practice?#courses
 - Fine-Tuning;
 - Feature Extraction;
 - dropouts;
-
+- multi-class classifiers;
 
 
 
