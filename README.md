@@ -29,6 +29,7 @@ A list with demos, notes, extra reading, my own progress all related with [Tenso
 
 - **2020-08-30**: End Week 03 and 04 aka Course 02; Learn about Multi-class classifier (now I know how Teachable Machine it's working at code level). Also I think that the course it's only the "basics/step by step" of all this topics. If you wanna know more, you def need more practice/code/books/run in prod. (pass quiz/code/reading/update repo);
 
+- **2020-08-31**: Init 3th course: Natural Language Processing in TensorFlow. All first week it's over (pass quiz/code/reading/update repo);
 
 
 

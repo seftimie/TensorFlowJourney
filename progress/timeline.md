@@ -162,6 +162,27 @@ https://www.coursera.org/learn/convolutional-neural-networks-tensorflow
 ## 3. Natural Language Processing in TensorFlow
 https://www.coursera.org/learn/natural-language-processing-tensorflow
 
+**2020-08-31**
+- (done) Week 1, Introduction, A conversation with Andrew Ng
+- (done) Introduction
+- (done) Word based encodings
+- (done) Using APIs
+- (done) Check out the code!
+- (done) Notebook for lesson 1
+- (done) Text to sequence
+- (done) Looking more at the Tokenizer
+- (done) Padding
+- (done) Notebook for lesson 2
+- (done) Sarcasm, really?
+- (done) Working with the Tokenizer
+- (done) News headlines dataset for sarcasm detection
+- (done) Check out the code!
+- (done) Notebook for lesson 3
+- (done) Week 1 Quiz
+- (done) Week 1 Wrap up
+- (todo) Exercise 1- Explore the BBC news archive
+	
+
 
 ## 4. Sequences, Time Series and Prediction
 https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction

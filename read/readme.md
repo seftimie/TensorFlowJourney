@@ -29,7 +29,10 @@ https://www.coursera.org/specializations/tensorflow-in-practice?#courses
 - [Introducing Rock Paper Scissors – A multi class learning dataset](http://www.laurencemoroney.com/rock-paper-scissors-dataset/)
 - [Course 2 - Part 8 - Lesson 2 - Notebook (RockPaperScissors).ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%202%20-%20Part%208%20-%20Lesson%202%20-%20Notebook%20(RockPaperScissors).ipynb)
 - [Exercise 8 - Question.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Exercises/Exercise%208%20-%20Multiclass%20with%20Signs/Exercise%208%20-%20Question.ipynb)
-
+- [Course 3 - Week 1 - Lesson 1.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%201%20-%20Lesson%201.ipynb)
+- [Course 3 - Week 1 - Lesson 2.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%201%20-%20Lesson%202.ipynb#scrollTo=rX8mhOLljYeM)
+- [Sarcasm in News Headlines Dataset by Rishabh Misra](https://rishabhmisra.github.io/publications/)
+- [Course 3 - Week 1 - Lesson 3.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%201%20-%20Lesson%203.ipynb#scrollTo=OkaBMeNDwMel)
 
 
 **Todo:**

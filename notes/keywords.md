@@ -31,6 +31,11 @@ https://www.coursera.org/specializations/tensorflow-in-practice?#courses
 - Feature Extraction;
 - dropouts;
 - multi-class classifiers;
+- natural language processing;
+- tokens (keras Tokenizer);
+- hyperparameter;
+- encode sentences;
+- embeddings;
 
 
 
