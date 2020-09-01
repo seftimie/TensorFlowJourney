@@ -36,6 +36,12 @@ https://www.coursera.org/specializations/tensorflow-in-practice?#courses
 - hyperparameter;
 - encode sentences;
 - embeddings;
+- word embeddings;
+- TensorFlow Data Services or TFTS;
+- eager_execution;
+- Pre-tokenized;
+- recurrent neural networks;
+- embedding dimension;
 
 
 
