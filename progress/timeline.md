@@ -180,8 +180,32 @@ https://www.coursera.org/learn/natural-language-processing-tensorflow
 - (done) Notebook for lesson 3
 - (done) Week 1 Quiz
 - (done) Week 1 Wrap up
-- (todo) Exercise 1- Explore the BBC news archive
-	
+- (done) Exercise 1- Explore the BBC news archive
+- (done) Exercise 2 Answer- BBC news archive
+
+**2020-09-01**
+- (done) Week 2, A conversation with Andrew Ng
+- (done) Introduction
+- (done) The IMBD dataset
+- (done) IMDB reviews dataset
+- (done) Looking into the details
+- (done) How can we use vectors?
+- (done) More into the details
+- (done) Check out the code!
+- (done) Notebook for lesson 1
+- (done) Remember the sarcasm dataset?
+- (done) Building a classifier for the sarcasm dataset
+- (done) Let’s talk about the loss function
+- (done) Pre-tokenized datasets
+- (done) Diving into the code (part 1)
+- (done) Diving into the code (part 2)
+- (done) Check out the code!
+- (done) Notebook for lesson 3
+- (done) Week 2 Quiz
+- (done) Week 2 Wrap up
+- (done) Exercise 2- BBC news archive
+- (done) Exercise 2 Answer- BBC news archive
+
 
 
 ## 4. Sequences, Time Series and Prediction
