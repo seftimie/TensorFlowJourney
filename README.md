@@ -31,6 +31,6 @@ A list with demos, notes, extra reading, my own progress all related with [Tenso
 
 - **2020-08-31**: Init 3th course: Natural Language Processing in TensorFlow. All first week it's over (pass quiz/code/reading/update repo);
 
-
+- **2020-09-01**: Week 02 was all about tokenized words and using Embeddings to establish meaning from them in a mathematical way! (pass quiz/code/reading/update repo)
 
 
