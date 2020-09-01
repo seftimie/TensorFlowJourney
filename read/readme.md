@@ -33,6 +33,16 @@ https://www.coursera.org/specializations/tensorflow-in-practice?#courses
 - [Course 3 - Week 1 - Lesson 2.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%201%20-%20Lesson%202.ipynb#scrollTo=rX8mhOLljYeM)
 - [Sarcasm in News Headlines Dataset by Rishabh Misra](https://rishabhmisra.github.io/publications/)
 - [Course 3 - Week 1 - Lesson 3.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%201%20-%20Lesson%203.ipynb#scrollTo=OkaBMeNDwMel)
+- [Large Movie Review Dataset](http://ai.stanford.edu/~amaas/data/sentiment/)
+- [Embedding projector - visualization of high-dimensional data](http://projector.tensorflow.org/)
+- [Course 3 - Week 2 - Lesson 1.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%202%20-%20Lesson%201.ipynb)
+- [Course 3 - Week 2 - Lesson 2.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%202%20-%20Lesson%202.ipynb)
+- [Course 3 - Week 2 - Lesson 3.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%202%20-%20Lesson%203.ipynb)
+- [tensorflow/datasets](https://github.com/tensorflow/datasets/tree/master/docs/catalog)
+- [TF Datasets docs](https://www.tensorflow.org/datasets/catalog/overview)
+- [Sign up for the TensorFlow newsletter](https://services.google.com/fb/forms/tensorflow/)
+- [Course 3 - Week 2 - Exercise - Answer.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%202%20-%20Exercise%20-%20Answer.ipynb)
+- [Course 3 - Week 2 - Exercise - Answer.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%202%20-%20Exercise%20-%20Answer.ipynb)
 
 
 **Todo:**
@@ -60,3 +70,27 @@ https://www.coursera.org/specializations/tensorflow-in-practice?#courses
 - [Check out Andrew's terrific video explaining dropouts here](https://www.youtube.com/watch?v=ARq74QuavAo)
 - [Whats the diff between "fit" and "fit_generator"?](https://www.pyimagesearch.com/2018/12/24/how-to-use-keras-fit-and-fit_generator-a-hands-on-tutorial/)
 - [TF Tutorials](https://www.tensorflow.org/tutorials)
+- [Subwords text encoder](https://www.coursera.org/learn/natural-language-processing-tensorflow/supplement/C2ocn/subwords-text-encoder)
+- [Word embeddings](https://www.tensorflow.org/tutorials/text/word_embeddings)
+
+
+## Resources
+
+- [TensorFlow.org](https://www.tensorflow.org)
+- [TensorFlow Tutorials](https://www.tensorflow.org/tutorials/)
+- [TensorFlow Official Models](https://github.com/tensorflow/models/tree/master/official)
+- [TensorFlow Examples](https://github.com/tensorflow/examples)
+- [TensorFlow in Practice from Coursera](https://www.coursera.org/specializations/tensorflow-in-practice)
+- [TensorFlow: Data and Deployment from Coursera](https://www.coursera.org/specializations/tensorflow-data-and-deployment)
+- [Getting Started with TensorFlow 2 from Coursera](https://www.coursera.org/learn/getting-started-with-tensor-flow2)
+- [Intro to TensorFlow for Deep Learning from Udacity](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+- [Introduction to TensorFlow Lite from Udacity](https://www.udacity.com/course/intro-to-tensorflow-lite--ud190)
+- [Machine Learning with TensorFlow on GCP](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
+- [TensorFlow Chat Room on StackOverflow (not actively monitored by the TensorFlow team)](https://chat.stackoverflow.com/rooms/216694/tensorflow)
+- [TensorFlow Blog](https://blog.tensorflow.org)
+- [Learn ML with TensorFlow](https://www.tensorflow.org/resources/learn-ml)
+- [TensorFlow Twitter](https://twitter.com/tensorflow)
+- [TensorFlow YouTube](https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ)
+- [TensorFlow Roadmap](https://www.tensorflow.org/community/roadmap)
+- [TensorFlow White Papers](https://www.tensorflow.org/about/bib)
+- [TensorBoard Visualization Toolkit](https://github.com/tensorflow/tensorboard)
