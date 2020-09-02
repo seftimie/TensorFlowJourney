@@ -74,7 +74,7 @@ https://www.coursera.org/specializations/tensorflow-in-practice?#courses
 - [Subwords text encoder](https://www.coursera.org/learn/natural-language-processing-tensorflow/supplement/C2ocn/subwords-text-encoder)
 - [Word embeddings](https://www.tensorflow.org/tutorials/text/word_embeddings)
 - [Kaz Sato (work)](https://github.com/kazunori279/my-sessions-and-bio)
-
+- [TensorFlow2-for-absolute-beginners](https://github.com/kazunori279/TensorFlow2-for-absolute-beginners)
 
 
 ## Resources
