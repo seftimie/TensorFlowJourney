@@ -43,6 +43,7 @@ https://www.coursera.org/specializations/tensorflow-in-practice?#courses
 - [Sign up for the TensorFlow newsletter](https://services.google.com/fb/forms/tensorflow/)
 - [Course 3 - Week 2 - Exercise - Answer.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%202%20-%20Exercise%20-%20Answer.ipynb)
 - [Course 3 - Week 2 - Exercise - Answer.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%202%20-%20Exercise%20-%20Answer.ipynb)
+- [How to convert PDFs to audiobooks with machine learning](https://www.youtube.com/watch?v=q-nvbuc59Po&list=PLIivdWyY5sqLsaG5hNms0D9aZRBE7DHBb)
 
 
 **Todo:**
