@@ -207,6 +207,26 @@ https://www.coursera.org/learn/natural-language-processing-tensorflow
 - (done) Exercise 2 Answer- BBC news archive
 
 
+**2020-09-02**
+- (done) Week 03, A conversation with Andrew Ng
+- (done) Introduction
+- (done) LSTMs
+- (done) Implementing LSTMs in code
+- (done) Check out the code!
+- (done) Accuracy and loss
+- (done) A word from Laurence
+- (done) Looking into the code
+- (done) Using a convolutional network
+- (done) Check out the code!
+- (done) Going back to the IMDB dataset
+- (done) Check out the code!
+- (done) Tips from Laurence
+- (done) Exploring different sequence models
+- (done) Week 3 Quiz
+- (done) Week 3 Wrap up
+- (done) Exercise 3- Exploring overfitting in NLP
+
+
 
 ## 4. Sequences, Time Series and Prediction
 https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction

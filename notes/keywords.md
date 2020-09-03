@@ -42,6 +42,9 @@ https://www.coursera.org/specializations/tensorflow-in-practice?#courses
 - Pre-tokenized;
 - recurrent neural networks;
 - embedding dimension;
+- Long short-term memory (LSTM);
+- Cell State;
+- Gated Recurrent Units (GRU);
 
 
 

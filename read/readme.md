@@ -44,7 +44,12 @@ https://www.coursera.org/specializations/tensorflow-in-practice?#courses
 - [Course 3 - Week 2 - Exercise - Answer.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%202%20-%20Exercise%20-%20Answer.ipynb)
 - [Course 3 - Week 2 - Exercise - Answer.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%202%20-%20Exercise%20-%20Answer.ipynb)
 - [How to convert PDFs to audiobooks with machine learning](https://www.youtube.com/watch?v=q-nvbuc59Po&list=PLIivdWyY5sqLsaG5hNms0D9aZRBE7DHBb)
-
+- [Course 3 - Week 3 - Lesson 1a.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%203%20-%20Lesson%201a.ipynb)
+- [Course 3 - Week 3 - Lesson 1b.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%203%20-%20Lesson%201b.ipynb)
+- [Course 3 - Week 3 - Lesson 1c.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%203%20-%20Lesson%201c.ipynb)
+- [Course 3 - Week 3 - Lesson 2d.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%203%20-%20Lesson%202d.ipynb#scrollTo=nHGYuU4jPYaj)
+- [Course 3 - Week 3 - Lesson 2.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%203%20-%20Lesson%202.ipynb#scrollTo=g9DC6dmLF8DC)
+- [Course 3 - Week 3 - Lesson 2c.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%203%20-%20Lesson%202c.ipynb#scrollTo=g9DC6dmLF8DC)
 
 **Todo:**
 - [Demonstrate overfitting](https://www.tensorflow.org/tutorials/keras/overfit_and_underfit#demonstrate_overfitting)
@@ -75,6 +80,8 @@ https://www.coursera.org/specializations/tensorflow-in-practice?#courses
 - [Word embeddings](https://www.tensorflow.org/tutorials/text/word_embeddings)
 - [Kaz Sato (work)](https://github.com/kazunori279/my-sessions-and-bio)
 - [TensorFlow2-for-absolute-beginners](https://github.com/kazunori279/TensorFlow2-for-absolute-beginners)
+- [Deep RNNs](https://www.coursera.org/lecture/nlp-sequence-models/deep-rnns-ehs0S)
+- [Long Short Term Memory (LSTM)](https://www.coursera.org/lecture/nlp-sequence-models/long-short-term-memory-lstm-KXoay)
 
 
 ## Resources
