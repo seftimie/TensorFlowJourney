@@ -11,7 +11,7 @@ A list with demos, notes, extra reading, my own progress all related with [Tenso
 
 
 ## Updates: ([more details](progress/timeline.md))
-- **2020-08-22**: Course 01 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning;
+- **2020-08-22**: Course 01 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning. Get ready and init the struggle :)
 
 - **2020-08-23**: Course 01 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning. Finish Week 01 (pass quiz/code/reading/update repo)
 
