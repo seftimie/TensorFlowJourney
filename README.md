@@ -34,3 +34,5 @@ A list with demos, notes, extra reading, my own progress all related with [Tenso
 - **2020-09-01**: Course 03 - Natural Language Processing in TensorFlow. Week 02 was about tokenized words and using Embeddings to establish meaning from them in a mathematical way! (pass quiz/code/reading/update repo)
 
 - **2020-09-02**: Course 03 - Natural Language Processing in TensorFlow. Week 03, same basic intro to recurrent neural networks (RNN), Long short-term memory (LSTM), Gated Recurrent Units (GRU) lots of collabs but frankly I don't quite understand all this things yeat - so gotta read more about them (pass quiz/code/reading/update repo)
+
+- **2020-09-05**: Course 03 - Natural Language Processing in TensorFlow. Week 04, build a poetry generator. I've decided to build "[GhostwriterML 4 Rosalia](demo/GhostwriterML4Rosalia.py)" based on lyrics from "El mal querer" and "Los angeles" and lyrics from "Camarón" and "badbunnynobeldeliteratura" (^___^) 🤘 #stillworking (pass quiz/code/reading/update repo) 

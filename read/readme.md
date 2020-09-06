@@ -50,6 +50,9 @@ https://www.coursera.org/specializations/tensorflow-in-practice?#courses
 - [Course 3 - Week 3 - Lesson 2d.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%203%20-%20Lesson%202d.ipynb#scrollTo=nHGYuU4jPYaj)
 - [Course 3 - Week 3 - Lesson 2.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%203%20-%20Lesson%202.ipynb#scrollTo=g9DC6dmLF8DC)
 - [Course 3 - Week 3 - Lesson 2c.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%203%20-%20Lesson%202c.ipynb#scrollTo=g9DC6dmLF8DC)
+- [Course 3 - Week 4 - Lesson 1 - Notebook.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%204%20-%20Lesson%201%20-%20Notebook.ipynb)
+- [Course 3 - Week 4 - Lesson 2 - Notebook.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%204%20-%20Lesson%202%20-%20Notebook.ipynb)
+
 
 **Todo:**
 - [Demonstrate overfitting](https://www.tensorflow.org/tutorials/keras/overfit_and_underfit#demonstrate_overfitting)
@@ -82,6 +85,8 @@ https://www.coursera.org/specializations/tensorflow-in-practice?#courses
 - [TensorFlow2-for-absolute-beginners](https://github.com/kazunori279/TensorFlow2-for-absolute-beginners)
 - [Deep RNNs](https://www.coursera.org/lecture/nlp-sequence-models/deep-rnns-ehs0S)
 - [Long Short Term Memory (LSTM)](https://www.coursera.org/lecture/nlp-sequence-models/long-short-term-memory-lstm-KXoay)
+- [Text generation with an RNN](https://www.tensorflow.org/tutorials/text/text_generation)
+- [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 
 ## Resources

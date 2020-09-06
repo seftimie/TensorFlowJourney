@@ -227,6 +227,24 @@ https://www.coursera.org/learn/natural-language-processing-tensorflow
 - (done) Exercise 3- Exploring overfitting in NLP
 
 
+**2020-09-05**
+- (done) Week 04, A conversation with Andrew Ng
+- (done) Introduction
+- (done) Looking into the code
+- (done) Training the data
+- (done) More on training the data
+- (done) Check out the code!
+- (done) Notebook for lesson 1
+- (done) Finding what the next word should be
+- (done) Example
+- (done) Predicting a word
+- (done) Poetry!
+- (done) Looking into the code
+- (done) Laurence the poet!
+- (done) Check out the code!
+- (done) Your next task
+- (done) Link to generating text using a character-based RNN
+- (done) Week 4 Quiz
 
 ## 4. Sequences, Time Series and Prediction
 https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction
