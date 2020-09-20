@@ -248,3 +248,23 @@ https://www.coursera.org/learn/natural-language-processing-tensorflow
 
 ## 4. Sequences, Time Series and Prediction
 https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction
+
+
+**2020-09-20**
+- (done) Week 01, A conversation with Andrew Ng
+- (done) Time series examples
+- (done) Machine learning applied to time series
+- (done) Common patterns in time series
+- (done) Introduction to time series
+- (done) Introduction to time series notebook
+- (done) Train, validation and test sets
+- (done) Metrics for evaluating performance
+- (done) Moving average and differencing
+- (done) Trailing versus centered windows
+- (done) Forecasting
+- (done) Forecasting notebook
+- (done) Coursera Honor Code
+- (done) Week 1 Wrap up
+- (done) Exercise 1 - Create and predict synthetic data
+
+
