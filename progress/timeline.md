@@ -268,3 +268,22 @@ https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction
 - (done) Exercise 1 - Create and predict synthetic data
 
 
+**2020-09-22**
+- (done) Week 02: A conversation with Andrew Ng
+- (done) Preparing features and labels
+- (done) Preparing features and labels notebook
+- (done) Feeding windowed dataset into neural network
+- (done) Single layer neural network
+- (done) Machine learning on time windows
+- (done) Prediction
+- (done) More on single layer neural network
+- (done) Single layer neural network notebook
+- (done) Deep neural network training, tuning and prediction
+- (done) Deep neural network
+- (done) Deep neural network notebook
+- (done) Coursera Honor Code
+- (done) Week 2 Wrap up
+- (done) Exercise 2 - Predict with a DNN
+- (done) Exercise 2 Answer- Predict with a DNN
+
+
