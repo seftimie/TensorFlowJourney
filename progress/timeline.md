@@ -287,3 +287,50 @@ https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction
 - (done) Exercise 2 Answer- Predict with a DNN
 
 
+**2020-09-27**
+- (done) Week 3 - A conversation with Andrew Ng
+- (done) Conceptual overview
+- (done) Shape of the inputs to the RNN
+- (done) Outputting a sequence
+- (done) Lambda layers
+- (done) Adjusting the learning rate dynamically
+- (done) RNN
+- (done) RNN notebook 
+- (done) LSTM
+- (done) Link to the LSTM lesson
+- (done) Coding LSTMs
+- (done) More on LSTM
+- (done) LSTM notebook
+- (done) Week 3 Quiz
+- (done) Week 3 Wrap up
+- (done) Exercise 3 - Mean Absolute Error
+- (done) Exercise 3 Answer - Mean Absolute Error
+
+
+
+**2020-09-28**
+- (done) Week 4 - A conversation with Andrew Ng
+- (done) Convolutions
+- (done) Convolutional neural networks course
+- (done) Bi-directional LSTMs
+- (done) More on batch sizing
+- (done) LSTM
+- (done) LSTM notebook
+- (done) Real data - sunspots
+- (done) Train and tune the model
+- (done) Prediction
+- (done) Sunspots
+- (done) Sunspots notebook
+- (done) Combining our tools for analysis
+- (done) Week 4 Quiz
+- (done) Exercise 4 - Sunspots
+- (done) Exercise 4 Answer - Sunspots
+- (done) Week 3 Wrap up
+- (done) Congratulations!
+- (done) Specialization wrap up - A conversation with Andrew Ng
+
+
+Silviu Daniel Eftimie - has successfully completed the online, non-credit Professional Certificate 
+[DeepLearning.AI TensorFlow Developer](https://www.coursera.org/account/accomplishments/specialization/certificate/PW4V6LXK8U9P)
+
+

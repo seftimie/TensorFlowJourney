@@ -40,3 +40,15 @@ A list with demos, notes, extra reading, my own progress all related with [Tenso
 - **2020-09-20**: Course 04 - Sequences, Time Series and Prediction. Week 01. Learn some new things. I'll need to learn extra stuff for coding & statistics (pass quiz/code/reading/update repo);
 
 - **2020-09-22**: Course 04 - Sequences, Time Series and Prediction. Week 02. Explore time series data, seen how to split it into training and validation sets for training with a DNN. (pass quiz/code/reading/update repo)
+
+- **2020-09-27**: Course 04 - Sequences, Time Series and Prediction. Week 03. Recurrent Neural Networks for Time Series (pass quiz/code/reading/update repo)
+
+- **2020-09-28**: Course 04 - Sequences, Time Series and Prediction. Week 04. Real-world time series data with DNNs, RNNs and also convolution. (pass quiz/code/reading/update repo)
+
+
+Silviu Daniel Eftimie - has successfully completed the online, non-credit Professional Certificate 
+[DeepLearning.AI TensorFlow Developer](https://www.coursera.org/account/accomplishments/specialization/certificate/PW4V6LXK8U9P)
+
+
+
+Personal note: I only scratched the surface of what's possible. 🤘
